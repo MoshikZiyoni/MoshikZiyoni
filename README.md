@@ -14,6 +14,8 @@ Languages and Tools:
 ![icons8-html-5-48](https://user-images.githubusercontent.com/111297694/206739560-d56bc623-b1ee-4bb2-84a9-bad6115d528b.png)
 ![icons8-react-48](https://user-images.githubusercontent.com/111297694/206739956-065f9240-5488-4da6-bedf-2e5add1e972c.png)
 ![icons8-sql-50](https://user-images.githubusercontent.com/111297694/206740073-84cdc734-9b6b-4445-946e-e96bfd4a9181.png)
+![icons8-selenium-50](https://user-images.githubusercontent.com/111297694/206740319-155f8a6c-cfb1-446e-b63a-53aa81fd3617.png)
+![icons8-django-50](https://user-images.githubusercontent.com/111297694/206740442-58a4d706-3a36-4f68-ab69-fceae1d76255.png)
 
 ---
 
