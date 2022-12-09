@@ -8,9 +8,9 @@
 
 
 Languages and Tools:
+![icons8-python-48](https://user-images.githubusercontent.com/111297694/206739149-be51341c-af3b-4786-ab09-6944fad923b7.png)
 
 ---
-![bootstrap](https://user-images.githubusercontent.com/111297694/206738589-5964b6f2-9db8-421f-8e68-25cd5fb78e63.png)
 
 
 <!--
