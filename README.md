@@ -12,8 +12,8 @@ Languages and Tools:
 ![icons8-bootstrap-48](https://user-images.githubusercontent.com/111297694/206739283-cff878e8-8d96-4bc6-ba2c-e157ca2e668a.png)
 ![icons8-css3-48](https://user-images.githubusercontent.com/111297694/206739542-64d1a5e0-1c10-4400-87ba-c9b3162b2d2b.png)
 ![icons8-html-5-48](https://user-images.githubusercontent.com/111297694/206739560-d56bc623-b1ee-4bb2-84a9-bad6115d528b.png)
-![icons8-react-16](https://user-images.githubusercontent.com/111297694/206739735-87f1212b-c3cf-4a2a-add9-d2a889ff2818.png)
-![icons8-sql-30](https://user-images.githubusercontent.com/111297694/206739750-69fd0873-681e-4432-b751-e1b8a7ceb9dc.png)
+![icons8-react-48](https://user-images.githubusercontent.com/111297694/206739956-065f9240-5488-4da6-bedf-2e5add1e972c.png)
+![icons8-sql-48](https://user-images.githubusercontent.com/111297694/206739750-69fd0873-681e-4432-b751-e1b8a7ceb9dc.png)
 
 ---
 
