@@ -6,7 +6,7 @@
 - ⚡ Fun fact: Iceland is the only country in the world without mosquitoes
 
 Languages and Tools:
-bootstrap 
+-bootstrap 
 <!--
 **MoshikZiyoni/MoshikZiyoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
