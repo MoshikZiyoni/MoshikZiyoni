@@ -9,7 +9,7 @@
 
 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=,python,react,js,selenium,django,html,css,postgres,aws,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,python,react,js,selenium,django,html,css,postgres,aws)](https://skillicons.dev)
 
 
 
