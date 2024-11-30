@@ -9,7 +9,7 @@
 
 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=,python,react,js,posgresql,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,python,react,js,selenium,django,html,css,wasm)](https://skillicons.dev)
 ![icons8-bootstrap-48](https://user-images.githubusercontent.com/111297694/206739283-cff878e8-8d96-4bc6-ba2c-e157ca2e668a.png)
 ![icons8-css3-48](https://user-images.githubusercontent.com/111297694/206739542-64d1a5e0-1c10-4400-87ba-c9b3162b2d2b.png)
 ![icons8-html-5-48](https://user-images.githubusercontent.com/111297694/206739560-d56bc623-b1ee-4bb2-84a9-bad6115d528b.png)
