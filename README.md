@@ -9,8 +9,8 @@
 
 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=,python,react,js,selenium,django,html,css,postgres,wasm)](https://skillicons.dev)
-![icons8-sql-50](https://user-images.githubusercontent.com/111297694/206740073-84cdc734-9b6b-4445-946e-e96bfd4a9181.png)
+[![My Skills](https://skillicons.dev/icons?i=,python,react,js,selenium,django,html,css,postgres,aws,wasm)](https://skillicons.dev)
+
 
 
 ---
