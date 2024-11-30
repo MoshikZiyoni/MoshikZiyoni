@@ -2,14 +2,14 @@
 - 🔭 I’m currently working on Real-Estate App and E-Commerce App  ...
 - 🌱 I’m currently learning Full-stack Python and React...
 - 📫 How to reach me: Email: Moshiktm1994@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/moshik-ziyoni-82777922b/
+- LinkedIn: https://www.linkedin.com/in/moshik-ziyoni/
 - ⚡ Fun fact: Iceland is the only country in the world without mosquitoes
 
 
 
 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=,python,react,js,selenium,django,html,css,postgres,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,python,react,js,selenium,django,html,css,postgres,aws,ai)](https://skillicons.dev)
 
 
 
