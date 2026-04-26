@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m working on a Date App that helps men flirt with girls  ...
+- 🔭 I’m currently working on **BOT TEN**, an AI Voice Agent platform.
 - 🌱 I’m currently a software developer ...
 - 📫 How to reach me: Email: Moshiktm1994@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/moshik-ziyoni/
